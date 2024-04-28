@@ -9,7 +9,7 @@ introduce the wonders of the cience
 * [Portfolio_web]()
 
 ## See example in live 👀
-- [ENLACEGITHUBPAGES] (file:///C:/Users/choco/Desktop/Proyectos_python/Pagina_web_gabriel/gabito.html)
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Instalation👨‍🔧
 This project doesn’t require an installation. Just open the carpet or do double click in the HTMl
